@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+table, th, td {
+  border: 1px solid black;
+}
+</style>
+</head>
+<body>
+
+<script>
+function createTable(row, col) {
+  var table = "<table>";
+  for (var i = 1; i <= row; i++) {
+    table += "<tr>";
+    for (var j = 1; j <= col; j++) {
+      table += "<td>" + i * j + "</td>";
+    }
+    table += "</tr>";
+  }
+  table += "</table>";
+  document.write(table);
+}
+
+var row = prompt("Enter the number of rows:");
+var col = prompt("Enter the number of columns:");
+
+createTable(row, col);
+</script>
+
+</body>
+</html>
