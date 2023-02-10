@@ -1,4 +1,5 @@
 Prompt for number of rows:
+
 ![2023-02-10 14_06_41-Mozilla Firefox](https://user-images.githubusercontent.com/85564422/218043652-66a8ac3c-0296-4f06-8a5b-5f426f7ee66a.png)
 
 
