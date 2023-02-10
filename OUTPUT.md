@@ -4,6 +4,7 @@ Prompt for number of rows:
 
 
 Prompt for number of columns:
+
 ![2023-02-10 14_07_22-Mozilla Firefox](https://user-images.githubusercontent.com/85564422/218043680-a87a4854-0069-4039-aefa-cded5e0cde12.png)
 
 
